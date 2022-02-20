@@ -9,9 +9,9 @@ cursor.execute(query)
 
 query1 = ''' INSERT INTO expenses  VALUES(1, 'Komummmnalka') '''
 
-query2 = ''' INSERT INTO expenses  VALUES(1, 'Kounalka') '''
+query2 = ''' INSERT INTO expenses  VALUES(1, 'Komunalka') '''
 
-query3 = ''' INSERT INTO expenses  VALUES(2, 'Benbbzin') '''
+query3 = ''' INSERT INTO expenses  VALUES(2, 'Benzin') '''
 
 cursor.execute(query1)
 cursor.execute(query2)
