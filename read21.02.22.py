@@ -63,7 +63,7 @@ while True:
     #
     # for letter in a:
     #     if letter == y:
-    #         indexIndex = a.index(letter)
+    #         indexIndex = a.index(letttter)
     #
     # for letter in a:
     #     if a.index(letter) == indexIndex:
