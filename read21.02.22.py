@@ -72,7 +72,7 @@ while True:
     #         print(letter, end='')
     #
     # print(y, end= '')
-    # sleep(sltime)
+    # sleep(sltime )
 
 
 
