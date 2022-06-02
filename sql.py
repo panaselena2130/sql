@@ -11,7 +11,7 @@ query1 = ''' INSERT INTO expenses  VALUES(1, 'Komummmmnalka') '''
 
 query2 = ''' INSERT INTO expenses  VALUES(1, 'Kommmmmmmmunalka') '''
 
-query3 = ''' INSERT INTO expenses  VALUES(2, 'Benzzzzzzin') '''
+query3 = ''' INSERT INTO expenses  VALUES(2, 'Benzin') '''
 
 cursor.execute(query1)
 cursor.execute(query2)
