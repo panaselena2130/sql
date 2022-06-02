@@ -7,7 +7,7 @@ query = ''' CREATE TABLE IF NOT EXISTS expenses (id INTEGER, name TEXT) '''
 cursor.execute(query)
 
 
-query1 = ''' INSERT INTO expenses  VALUES(1, 'Komummmnalka') '''
+query1 = ''' INSERT INTO expenses  VALUES(1, 'Komummmmnalka') '''
 
 query2 = ''' INSERT INTO expenses  VALUES(1, 'Komunalka') '''
 
